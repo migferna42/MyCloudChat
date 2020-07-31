@@ -2,7 +2,7 @@ platform :ios, "11.0"
 use_frameworks!
 inhibit_all_warnings!
 
-target 'RWRC' do
+target 'MyCloudChat' do
   pod 'MessageKit'
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
