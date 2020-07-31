@@ -90,7 +90,7 @@
 		48AC74BA20A66C2A00AA1788 = {
 			isa = PBXGroup;
 			children = (
-				48AC74C520A66C2A00AA1788 /* RWRC */,
+				48AC74C520A66C2A00AA1788 /* MyCloudChat */,
 				48AC74C420A66C2A00AA1788 /* Products */,
 				6EDC27F561A43516D3AEBF14 /* Pods */,
 				27078574AC22DE5EDD982EC5 /* Frameworks */,
@@ -107,7 +107,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		48AC74C520A66C2A00AA1788 /* RWRC */ = {
+		48AC74C520A66C2A00AA1788 /* MyCloudChat */ = {
 			isa = PBXGroup;
 			children = (
 				48AC74DA20A66C9700AA1788 /* Controllers */,
@@ -116,7 +116,7 @@
 				48AC74DC20A66CB800AA1788 /* Supporting Files */,
 				48AC74D820A66C7A00AA1788 /* View Controllers */,
 			);
-			path = RWRC;
+			path = MyCloudChat;
 			sourceTree = "<group>";
 		};
 		48AC74D820A66C7A00AA1788 /* View Controllers */ = {
@@ -438,7 +438,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5D86HPCL4K;
-				INFOPLIST_FILE = "$(SRCROOT)/RWRC/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MyCloudChat/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -458,7 +458,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5D86HPCL4K;
-				INFOPLIST_FILE = "$(SRCROOT)/RWRC/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MyCloudChat/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
