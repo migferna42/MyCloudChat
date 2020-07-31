@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>724620152060-6fci3u3o252v7fa1tqfssia8mdsuqqui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.724620152060-6fci3u3o252v7fa1tqfssia8mdsuqqui</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfeXhFWHu2JQwNUSNPMx7DzA1R7w3fzXM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>724620152060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.42madridFTel.MyCloudChat</string>
+	<key>PROJECT_ID</key>
+	<string>mycloudchat-96a75</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mycloudchat-96a75.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:724620152060:ios:2ef7bd1201472a83cb1b79</string>
+	<key>DATABASE_URL</key>
+	<string>https://mycloudchat-96a75.firebaseio.com</string>
+</dict>
+</plist>
